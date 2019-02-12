@@ -1,0 +1,10 @@
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\bin\Debug\netcoreapp2.1\ImageModeration.deps.json
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\bin\Debug\netcoreapp2.1\ImageModeration.runtimeconfig.json
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\bin\Debug\netcoreapp2.1\ImageModeration.runtimeconfig.dev.json
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\bin\Debug\netcoreapp2.1\ImageModeration.dll
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\obj\Debug\netcoreapp2.1\ImageModeration.csproj.CoreCompileInputs.cache
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\obj\Debug\netcoreapp2.1\ImageModeration.AssemblyInfoInputs.cache
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\obj\Debug\netcoreapp2.1\ImageModeration.AssemblyInfo.cs
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\bin\Debug\netcoreapp2.1\ImageModeration.pdb
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\obj\Debug\netcoreapp2.1\ImageModeration.dll
+C:\Users\azureadmin\source\repos\ImageModeration\ImageModeration\obj\Debug\netcoreapp2.1\ImageModeration.pdb

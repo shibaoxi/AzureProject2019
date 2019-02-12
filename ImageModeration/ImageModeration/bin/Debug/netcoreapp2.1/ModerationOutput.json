@@ -1,0 +1,252 @@
+[
+  {
+    "ImageUrl": "https://moderatorsampleimages.blob.core.windows.net/samples/sample2.jpg",
+    "ImageModeration": {
+      "CacheID": "bfa532c0-1db9-48de-a82c-976658f3ead1_636855389682874968",
+      "Result": false,
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_bef26e2e-9f66-42a0-b78a-a7329625bf85",
+      "AdultClassificationScore": 0.021854378283023834,
+      "IsImageAdultClassified": false,
+      "RacyClassificationScore": 0.045791395008563995,
+      "IsImageRacyClassified": false,
+      "AdvancedInfo": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "1512"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "273405"
+        }
+      ],
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      }
+    },
+    "TextDetection": {
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      },
+      "Metadata": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "472"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "273405"
+        }
+      ],
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_29c6b126-b9b0-45b8-a91b-b17537872905",
+      "CacheId": "b5422d22-60ba-4b0e-9d13-22345a7e0f55_636855389704437977",
+      "Language": "eng",
+      "Text": "IF WE DID \r\nALL \r\nTHE THINGS \r\nWE ARE \r\nCAPABLE \r\nOF DOING, \r\nWE WOULD \r\nLITERALLY \r\nASTOUND \r\nOURSELVE \r\n",
+      "Candidates": []
+    },
+    "FaceDetection": {
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      },
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_30897ca5-4826-4253-b7c5-8d951895522f",
+      "CacheId": "221a1855-c504-487e-9d45-3b6809851fa1_636855389719124928",
+      "Result": false,
+      "Count": 0,
+      "AdvancedInfo": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "322"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "273405"
+        }
+      ],
+      "Faces": []
+    }
+  },
+  {
+    "ImageUrl": "https://moderatorsampleimages.blob.core.windows.net/samples/sample5.png",
+    "ImageModeration": {
+      "CacheID": "216621de-bca6-449c-a154-4121adef455d_636855389761935570",
+      "Result": false,
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_7113e884-fd36-4a7b-a2c2-c97bbbea9a6f",
+      "AdultClassificationScore": 0.0013530384749174118,
+      "IsImageAdultClassified": false,
+      "RacyClassificationScore": 0.0045312256552278996,
+      "IsImageRacyClassified": false,
+      "AdvancedInfo": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "851"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "2278902"
+        }
+      ],
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      }
+    },
+    "TextDetection": {
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      },
+      "Metadata": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "404"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "2278902"
+        }
+      ],
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_12bffeff-2fc3-4d19-b62b-e519ad9d8952",
+      "CacheId": "fe172aba-1b0b-47d8-9825-97ccb3913632_636855389783347659",
+      "Language": "eng",
+      "Text": "",
+      "Candidates": []
+    },
+    "FaceDetection": {
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      },
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_648b9a53-b213-4686-8c66-2b15311179c6",
+      "CacheId": "2f015325-3653-487c-a9f5-0df8f953e593_636855389799193925",
+      "Result": true,
+      "Count": 6,
+      "AdvancedInfo": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "400"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "2278902"
+        }
+      ],
+      "Faces": [
+        {
+          "Bottom": 598,
+          "Left": 44,
+          "Right": 268,
+          "Top": 374
+        },
+        {
+          "Bottom": 620,
+          "Left": 308,
+          "Right": 532,
+          "Top": 396
+        },
+        {
+          "Bottom": 575,
+          "Left": 594,
+          "Right": 773,
+          "Top": 396
+        },
+        {
+          "Bottom": 563,
+          "Left": 812,
+          "Right": 955,
+          "Top": 420
+        },
+        {
+          "Bottom": 611,
+          "Left": 972,
+          "Right": 1151,
+          "Top": 432
+        },
+        {
+          "Bottom": 510,
+          "Left": 1232,
+          "Right": 1456,
+          "Top": 286
+        }
+      ]
+    }
+  },
+  {
+    "ImageUrl": "http://pic.pimg.tw/k110107632/1387547248-3785354604.jpg",
+    "ImageModeration": {
+      "CacheID": "bcfeb01b-a272-44c2-99c1-ddb06b986c76_636855389832432013",
+      "Result": true,
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_61f83a02-dae1-42c8-ab04-c046c87e71cb",
+      "AdultClassificationScore": 0.79699718952178955,
+      "IsImageAdultClassified": true,
+      "RacyClassificationScore": 0.9772266149520874,
+      "IsImageRacyClassified": true,
+      "AdvancedInfo": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "379"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "27436"
+        }
+      ],
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      }
+    },
+    "TextDetection": {
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      },
+      "Metadata": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "2"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "27436"
+        }
+      ],
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_7f007517-4ae5-4f83-a706-aef9ae7b6937",
+      "CacheId": "b20a0404-4f79-4836-99fc-791e00e696bc_636855389845711870",
+      "Language": "eng",
+      "Text": "",
+      "Candidates": []
+    },
+    "FaceDetection": {
+      "Status": {
+        "Code": 3000,
+        "Description": "OK",
+        "Exception": null
+      },
+      "TrackingId": "AE_ibiza_d7f4a439-2eea-483d-89ff-bed92bae1926_ContentModerator.F0_0831709f-edc0-4efd-8adc-f21f5857c884",
+      "CacheId": "c5e7a1e2-2db7-4edd-9999-f9ba3a3efeef_636855389856806468",
+      "Result": false,
+      "Count": 0,
+      "AdvancedInfo": [
+        {
+          "Key": "ImageDownloadTimeInMs",
+          "Value": "2"
+        },
+        {
+          "Key": "ImageSizeInBytes",
+          "Value": "27436"
+        }
+      ],
+      "Faces": []
+    }
+  }
+]
